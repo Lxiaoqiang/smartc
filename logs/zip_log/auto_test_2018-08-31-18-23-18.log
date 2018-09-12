@@ -1,0 +1,12 @@
+[python 2018-08-31 18:23:18,946 run.py run  INFO] ===》 running...
+[python 2018-08-31 18:23:18,948 run.py run  INFO] ===》 测试用例的目录:.\testcase\
+[python 2018-08-31 18:23:18,948 run.py run  INFO] ===》 测试报告目录:.\report\report_file\
+[python 2018-08-31 18:23:19,113 run.py run  INFO] ===》 创建测试用例集:<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<test_my_demo.TestDemo testMethod=test_get_1_2>, <test_my_demo.TestDemo testMethod=test_get_2_httpbin_org>]>]>]>
+[python 2018-08-31 18:23:20,283 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-12-47.log' already exists
+[python 2018-08-31 18:23:20,285 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-14-21.log' already exists
+[python 2018-08-31 18:23:20,286 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-19-01.log' already exists
+[python 2018-08-31 18:23:20,287 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-19-02.log' already exists
+[python 2018-08-31 18:23:20,289 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-24-15-47-16.log' already exists
+[python 2018-08-31 18:23:20,297 run.py run  INFO] ===》 5条剪切成功！
+[python 2018-08-31 18:23:20,302 run.py run  INFO] ===》 6条剪切成功！
+[python 2018-08-31 18:23:20,306 run.py run  INFO] ===》 7条剪切成功！

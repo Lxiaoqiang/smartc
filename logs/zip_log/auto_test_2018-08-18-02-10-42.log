@@ -1,0 +1,4 @@
+[python 2018-08-18 02:10:42,788 run.py run  INFO] ===》 running...
+[python 2018-08-18 02:10:42,790 run.py run  INFO] ===》 测试用例的目录:.\testcase\
+[python 2018-08-18 02:10:42,790 run.py run  INFO] ===》 测试报告目录:.\report\report_file\
+[python 2018-08-18 02:10:43,060 run.py run  INFO] ===》 创建测试用例集:<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<test_my_demo.TestDemo testMethod=test_get_1_2>, <test_my_demo.TestDemo testMethod=test_get_2_httpbin_org>]>]>]>

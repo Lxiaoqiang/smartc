@@ -1,0 +1,7 @@
+[damao 2018-08-18 02:17:41,295 test_my_demo.py test_my_demo  INFO] ===》 接口地址：http://httpbin.org/get
+[damao 2018-08-18 02:17:41,970 test_my_demo.py test_my_demo  INFO] ===》 请求体参数：params:{'c': 1}
+[damao 2018-08-18 02:17:41,971 test_my_demo.py test_my_demo  INFO] ===》 请求头参数：header:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+[damao 2018-08-18 02:17:41,975 test_my_demo.py test_my_demo  INFO] ===》 接口地址：http://httpbin.org/get
+[damao 2018-08-18 02:17:42,585 test_my_demo.py test_my_demo  INFO] ===》 请求体参数：params:{'c': 1}
+[damao 2018-08-18 02:17:42,585 test_my_demo.py test_my_demo  INFO] ===》 请求头参数：header:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+[damao 2018-08-18 02:17:42,585 test_my_demo.py test_my_demo  INFO] ===》 用例执行成功，断言失败

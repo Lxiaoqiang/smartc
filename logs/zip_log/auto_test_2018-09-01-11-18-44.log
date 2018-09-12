@@ -1,0 +1,14 @@
+[python 2018-09-01 11:18:44,942 run.py run  INFO] ===》 running...
+[python 2018-09-01 11:18:44,944 run.py run  INFO] ===》 测试用例的目录:.\testcase\
+[python 2018-09-01 11:18:44,944 run.py run  INFO] ===》 测试报告目录:.\report\report_file\
+[python 2018-09-01 11:18:45,134 run.py run  INFO] ===》 创建测试用例集:<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<test_my_demo.TestDemo testMethod=test_get_1_2>, <test_my_demo.TestDemo testMethod=test_get_2_httpbin_org>]>]>]>
+[python 2018-09-01 11:18:46,819 run.py run  INFO] ===》 1条剪切成功！
+[python 2018-09-01 11:18:46,828 run.py run  INFO] ===》 2条剪切成功！
+[python 2018-09-01 11:18:46,839 run.py run  INFO] ===》 3条剪切成功！
+[python 2018-09-01 11:18:46,846 run.py run  INFO] ===》 4条剪切成功！
+[python 2018-09-01 11:18:46,850 run.py run  INFO] ===》 5条剪切成功！
+[python 2018-09-01 11:18:46,854 run.py run  INFO] ===》 6条剪切成功！
+[python 2018-09-01 11:18:46,859 run.py run  INFO] ===》 7条剪切成功！
+[python 2018-09-01 11:18:46,863 run.py run  INFO] ===》 8条剪切成功！
+[python 2018-09-01 11:18:46,868 run.py run  INFO] ===》 9条剪切成功！
+[python 2018-09-01 11:18:46,872 run.py run  INFO] ===》 10条剪切成功！

@@ -1,0 +1,12 @@
+[Http-Requests 2018-09-10 09:34:49,674 HTTP_requests.py HTTP_requests  INFO] ===》 获取接口地址成功：ht[damao 2018-09-10 09:34:50,673 test_my_demo.py test_my_demo  INFO] ===》 请求体参数：params:{'c': 1}
+[damao 2018-09-10 09[Http-Requests 2018-09-10 09:34:50,678 HTTP_requests.py HTTP_requests  INFO] ===》 获取接口地址成功：http://httpbin.org/
+[Http-Requests 2018-09-10 09:34:53,949 HTTP_requests.py HTTP_requests  ERROR] ===》 get请求错误：HTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read tim[python 2018-09-10 09:34:58,189 run.py run  INFO] ===》 邮件发送成功！
+[python 2018-09-10 09:34:58,190 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-12-47.log' already exists
+[python 2018-09-10 09:34:58,191 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-14-21.log' already exists
+[python 2018-09-10 09:34:58,191 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-19-01.log' already exists
+[python 2018-09-10 09:34:58,191 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-18-02-19-02.log' already exists
+[python 2018-09-10 09:34:58,192 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-24-15-47-16.log' already exists
+[python 2018-09-10 09:34:58,193 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-31-18-23-18.log' already exists
+[python 2018-09-10 09:34:58,193 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-08-31-18-23-19.log' already exists
+[python 2018-09-10 09:34:58,194 run.py run  INFO] ===》 剪切失败：Destination path '.\logs\zip_log\auto_test_2018-09-01-11-21-36.log' already exists
+[python 2018-09-10 09:34:58,198 run.py run  INFO] ===》 8条剪切成功！

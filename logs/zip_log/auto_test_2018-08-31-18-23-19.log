@@ -1,0 +1,8 @@
+[Http-Requests 2018-08-31 18:23:19,114 HTTP_requests.py HTTP_requests  INFO] ===》 获取接口地址成功：ht[damao 2018-08-31 18:23:19,706 test_my_demo.py test_my_demo  INFO] ===》 请求体参数：params:{'c': 1}
+[damao 2018-08-31 18[Http-Requests 2018-08-31 18:23:19,711 HTTP_requests.py HTTP_requests  INFO] ===》 获取接口地址成功：http://httpbin.org/
+[Http-Requests 2018-08-31 18:23:20,255 HTTP_requests.py HTTP_requests  INFO] ===》 get请求发送成功！
+ate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+[damao 2018-08-31 18:23:19,710 test_my_demo.py test_my_demo  INFO] ===》 接口地址：http://httpbin.org/get
+[damao 2018-08-31 18:23:20,255 test_my_demo.py test_my_demo  INFO] ===》 请求体参数：params:{'c': 1}
+[damao 2018-08-31 18:23:20,255 test_my_demo.py test_my_demo  INFO] ===》 请求头参数：header:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+[damao 2018-08-31 18:23:20,256 test_my_demo.py test_my_demo  INFO] ===》 断言失败，用例执行成功！
